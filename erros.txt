@@ -1,0 +1,6 @@
+ 2 - buraco na seção polida - na imagem de MEV e na REF é possível ver o interior, na de MO não (aparece como uma mancha preta) - lado direito 
+ 3 - buraco na seção polida - na imagem de MEV e na REF é possível ver o interior, na de MO não (aparece como uma mancha preta) - lado esquerdo
+33 - sujeira (fibra visível na imagem de MEV e na REF, embaixo no centro)
+67 - sujeira (fibra visível na imagem de MEV e na REF, embaixo no lado direito)
+72 - falha do MEV (5 linhas, embaixo)
+80 - sujeira (fibra visível na imagem de MEV e na REF, canto superior direito)
